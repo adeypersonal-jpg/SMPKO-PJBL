@@ -1,7 +1,7 @@
 # SMPKO-PJBL
 # Sistem Manajemen Parkir Kampus Otomatis (SMPKO) 🚗🏍️
 
-Sebuah sistem *database* relasional untuk mengelola operasional parkir kampus secara otomatis, dirancang menggunakan **MariaDB/MySQL** dengan *Storage Engine* **InnoDB**.
+Sebuah sistem *database* relasional untuk mengelola operasional parkir kampus secara otomatis, dirancang menggunakan **MariaDB/MySQL** dengan *DBMS* **MariaDB**.
 
 ## 📌 Deskripsi Proyek
 Proyek ini dikembangkan sebagai bagian dari Project Based Learning (PBL) mata kuliah Sistem Basis Data. Sistem ini mampu melacak ketersediaan slot parkir secara *real-time*, mencatat riwayat *check-in*/*check-out*, dan menangani relasi data pengguna kampus (Dosen, Mahasiswa, Pegawai) dengan kendaraan mereka.
