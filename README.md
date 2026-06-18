@@ -21,7 +21,7 @@ Proyek ini dikembangkan sebagai bagian dari Project Based Learning (PBL) mata ku
 
 
 ## 🚀 Cara Penggunaan
-1. Import file `Databases/SMPKO.sql atau Databases/SMPKO_default.sql ` ke dalam MariaDB/MySQL PHP Admin Website.
+1. Import file [FileSQL_SMPKO](Databases/SMPKO.sql) ke dalam MariaDB/MySQL PHP Admin Website.
 2. Semua tabel, relasi (Foreign Key), View, dan Trigger akan otomatis terpasang.
 3. Jalankan query pengujian yang tersedia di dokumen laporan Bab 5 (5.2 Query Sql) .
 
