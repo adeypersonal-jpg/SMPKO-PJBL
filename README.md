@@ -12,3 +12,12 @@ Proyek ini dikembangkan sebagai bagian dari Project Based Learning (PBL) mata ku
     * Validasi otomatis mencegah mobil parkir di slot motor (Error 1644).
     * Kapasitas gedung parkir (*update* otomatis) bertambah/berkurang saat ada slot baru yang dibangun.
 * **Real-time Views:** Menggunakan SQL `VIEW` (`v_status_parkir`) untuk kalkulasi sisa slot tersedia tanpa membebani tabel master.
+
+## 📊 Entity Relationship Diagram (ERD)
+![ERD SMPKO](ERD.jpeg)
+*(Catatan: Taruh gambar ERD-mu di folder assets agar muncul di sini)*
+
+## 🚀 Cara Penggunaan
+1. Import file `database/smpko.sql` ke dalam MariaDB/MySQL.
+2. Semua tabel, relasi (Foreign Key), View, dan Trigger akan otomatis terpasang.
+3. Jalankan query pengujian yang tersedia di dokumen laporan.
