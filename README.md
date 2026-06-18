@@ -14,7 +14,7 @@ Proyek ini dikembangkan sebagai bagian dari Project Based Learning (PBL) mata ku
 * **Real-time Views:** Menggunakan SQL `VIEW` (`v_status_parkir`) untuk kalkulasi sisa slot tersedia tanpa membebani tabel master.
 
 ## 📊 Entity Relationship Diagram (ERD)
-![ERD SMPKO](ERD.jpeg)
+![ERD SMPKO](Asset/ERD.jpeg)
 *(Catatan: Taruh gambar ERD-mu di folder assets agar muncul di sini)*
 
 ## 🚀 Cara Penggunaan
