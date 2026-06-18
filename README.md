@@ -15,7 +15,7 @@ Proyek ini dikembangkan sebagai bagian dari Project Based Learning (PBL) mata ku
 
 ## 📊 Entity Relationship Diagram (ERD)
 ![ERD SMPKO](Asset/ERD.jpeg)
-![Diagram Table Database](Database_Table.jpeg)
+![Diagram Table Database](Asset/Database_Table.jpeg)
 
 
 ## 🚀 Cara Penggunaan
