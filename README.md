@@ -23,4 +23,4 @@ Proyek ini dikembangkan sebagai bagian dari Project Based Learning (PBL) mata ku
 3. Jalankan query pengujian yang tersedia di dokumen laporan.
 
 ## 📄 Laporan Lengkap
-Untuk melihat skenario pengujian, analisis DDL/DML, dan studi kasus lengkap, silakan baca [Laporan PBL SMPKO](Docs/LAPORAN PROJECT BASED LEARNING.pdf).
+Untuk melihat skenario pengujian, analisis DDL/DML, dan studi kasus lengkap, silakan baca [Laporan PBL SMPKO](Docs/LAPORAN_PROJECT_BASED_LEARNING.pdf).
